@@ -1,6 +1,6 @@
 # helloworld
 It is a practice code repositiry
 
-hello everyone 
+hello world.
 
 I will try my best.
